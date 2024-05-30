@@ -5,7 +5,7 @@ This is the repository for our research paper *Bring back Semantics to Knowledge
 ### Code
 
 All the experiments done in the paper are sorted by dataset on each folder. All the generated files
-used to run the experiments (entity types, location with abstraction) are placed in the folder `data/` for each dataset. You will also need to install the [LibKGE library](https://github.com/uma-pi1/kge.git) in order to load the pre-trained models.
+used to run the experiments (entity types, location with abstraction) are placed in the folder `data/` for each dataset. If you use a conda environment you can create the environment using the `environment.yml` file, otherwise a `requirements.txt` file is also given. You will also need to install the [LibKGE library](https://github.com/uma-pi1/kge.git) from the official repository in order to load the pre-trained models.
 
 ### Data
 
