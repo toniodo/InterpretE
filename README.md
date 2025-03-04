@@ -1,6 +1,9 @@
 # InterpretE
 
-This is the repository for our research paper *Bring back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*.
+This is the repository of our research paper [*Bring back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*](https://link.springer.com/chapter/10.1007/978-3-031-71170-1_17) which have been accepted at the [18th International conference on
+Neural-Symbolic Learning and Reasoning](https://sites.google.com/view/nesy2024/home). 
+
+An extended version of the short paper has been submitted at the Neurosymbolic Artificial Intelligence Journal. The Supplementary Material of this submission can be found in this repository via this [link](https://github.com/toniodo/InterpretE/edit/main/supplementary_material.pdf).
 
 ### Code
 
